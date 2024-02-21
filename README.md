@@ -71,6 +71,10 @@ Users can add products to their shopping cart by clicking on the "Add to Cart" b
 - **Bootstrap**: A CSS framework that facilitates the creation of responsive and mobile-first web designs. Bootstrap offers pre-designed components and utilities for styling, layout, and interactive elements.
 - **Font Awesome**: A library that provides a wide range of icons for web applications. Font Awesome icons enhance the visual appeal and usability of the application by providing scalable vector icons that can be easily customized and integrated into the UI.
 
+## Demo
+
+Check out the live demo [here](https://react-context-cart-demo.netlify.app/).
+
 ## Usage
 
 To run the application locally:
