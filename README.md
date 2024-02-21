@@ -7,9 +7,6 @@ This is a simple web application for a mobile store. It allows users to manage t
 ### 1. Navigation Bar
 
 The navigation bar provides easy access to different sections of the website:
-- **Home**: Takes the user to the home page.
-- **About**: Provides information about the mobile store.
-- **Shop**: Dropdown menu with options to browse all products, popular items, and new arrivals.
 - **Cart**: Displays the total number of items in the user's shopping cart. Clicking on it redirects the user to their cart.
 
 ### 2. Product Listing
