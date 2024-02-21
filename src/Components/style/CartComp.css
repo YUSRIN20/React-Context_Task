@@ -1,0 +1,14 @@
+.quantity-btn{
+    border: none;
+    background-color: #A1C349;
+    border-radius: 5px;
+}
+.quantity-btn:active{
+   opacity: -0.2;
+}
+#card-w{
+    box-shadow:   0 .125rem .25rem  rgb(175, 175, 175); 
+}
+#card-w:hover{
+    box-shadow:  0 .2rem 0.500rem  rgb(45, 45, 44);
+}
