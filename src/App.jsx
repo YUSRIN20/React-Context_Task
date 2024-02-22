@@ -124,12 +124,11 @@ const App = () => {
 
       {/* Container for displaying total price and quantity */}
       <div className='container-xl h-10 sticky-top d-flex justify-content-evenly align-items-center p-3' style={{backgroundColor:"#102542", color:"white", borderRadius:"20px"}}>
-        <div>
           {/* Displaying total price */}
-          <h1>Total Price: ${totalprice}</h1>
+          <h3>Total Price: ${totalprice}</h3>
           {/* Displaying total quantity */}
-          <h1>Total Quantity: {totalQuantity}</h1>
-        </div>
+          <h3>Total Quantity: {totalQuantity}</h3>
+          <button class="btn btn-primary">proceed to pay</button>
       </div>
 
       {/* Main content container */}
